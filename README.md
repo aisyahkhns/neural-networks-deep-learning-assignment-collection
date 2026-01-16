@@ -35,7 +35,6 @@ Enhancements to Tiny and Efficient Edge Detector (TEED) model:
 - Hard region improvement for foliage detection
 - Quantization-aware training for edge deployment
 
-**Team**: Huda Aisyah, Steven Albert, Yu-Ti Tu, Novia Brilianty
 
 ## 📌 Note
 

@@ -8,18 +8,18 @@ A collection of deep learning coursework including 8 assignments and 1 final pro
 
 | Assignment | Topic | Score |
 |------------|-------|-------|
-| [Assignment 1](./assignment1/) | Data Processing with Pandas & Matplotlib | 95/100 ⭐ |
-| [Assignment 2](./assignment2/) | Learning Rate Schedulers | 95/100 ⭐ |
-| [Assignment 3](./assignment3/) | FashionMNIST Classification | 90/100 ⭐ |
-| [Assignment 4](./assignment4/) | Adult Income Dataset Preprocessing | 100/100 ⭐⭐ |
-| [Assignment 5](./assignment5/) | MLP for Adult Income Classification | 90/100 ⭐ |
-| [Assignment 6](./assignment6/) | Stanford Cars - Custom CNN | 90/100 ⭐ |
-| [Assignment 7](./assignment7/) | Stanford Cars - Transfer Learning | 93/100 ⭐ |
-| [Assignment 8](./assignment8/) | BERT Sentiment Analysis | 95/100 ⭐ |
+| [Assignment 1](https://github.com/aisyahkhns/neural-networks-deep-learning-assignment-collection/tree/main/Data%20preprocessing%20and%20Visualization) | Data Processing with Pandas & Matplotlib | 95/100 ⭐ |
+| [Assignment 2](https://github.com/aisyahkhns/neural-networks-deep-learning-assignment-collection/tree/main/MLP%20(Draw%20learning%20rate%20curve)) | Learning Rate Schedulers | 95/100 ⭐ |
+| [Assignment 3](https://github.com/aisyahkhns/neural-networks-deep-learning-assignment-collection/tree/main/MLP%20(Pytorch_FashionMNIST)) | FashionMNIST Classification | 90/100 ⭐ |
+| [Assignment 4](https://github.com/aisyahkhns/neural-networks-deep-learning-assignment-collection/tree/main/Cross%20Validation%20and%20Data%20Representation) | Adult Income Dataset Preprocessing | 100/100 ⭐⭐ |
+| [Assignment 5](https://github.com/aisyahkhns/neural-networks-deep-learning-assignment-collection/tree/main/Pytorch%20custom%20dataset) | MLP for Adult Income Classification | 90/100 ⭐ |
+| [Assignment 6](https://github.com/aisyahkhns/neural-networks-deep-learning-assignment-collection/tree/main/CNN%20from%20scratch%20with%20attention%20(Stanford%20Car%20Dataset)) | Stanford Cars - Custom CNN | 90/100 ⭐ |
+| [Assignment 7](https://github.com/aisyahkhns/neural-networks-deep-learning-assignment-collection/tree/main/Transfer%20Learning%20(stanford%20car%20dataset)) | Stanford Cars - Transfer Learning | 93/100 ⭐ |
+| [Assignment 8](https://github.com/aisyahkhns/neural-networks-deep-learning-assignment-collection/tree/main/BERT) | BERT Sentiment Analysis | 95/100 ⭐ |
 
 ## 🎯 Final Project
 
-**[TEED: Edge Detection Enhancement](./final-project/)** - Score: 94/100 ⭐⭐
+**[TEED: Edge Detection Enhancement](https://github.com/aisyahkhns/neural-networks-deep-learning-assignment-collection/tree/main/Final%20project)** - Score: 94/100 ⭐⭐
 
 Enhancements to Tiny and Efficient Edge Detector (TEED) model:
 - Hard region improvement for foliage detection

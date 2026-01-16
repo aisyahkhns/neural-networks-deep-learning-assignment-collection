@@ -4,6 +4,16 @@ A collection of deep learning coursework including 8 assignments and 1 final pro
 
 ⚠️ **Educational Purpose Only**: Please use this repository as a learning reference. Do not copy or plagiarize the work.
 
+## 📊 Why Scores Are Included
+
+Scores are published to provide transparency and help you gauge the quality and reliability of the solutions. This way, you can:
+- Understand which approaches worked well and which need improvement
+- Learn from both successes and mistakes
+- Use this as a reference to compare with your own work
+- Make informed decisions about which solutions to study in detail
+
+**Disclaimer**: Scores reflect what worked in this specific course context. Solutions may not be optimal or applicable to all scenarios. Always verify, critically evaluate, and understand the underlying concepts rather than blindly following the code.
+
 ## 📝 Assignments
 
 | Assignment | Topic | Score |
@@ -25,6 +35,7 @@ Enhancements to Tiny and Efficient Edge Detector (TEED) model:
 - Hard region improvement for foliage detection
 - Quantization-aware training for edge deployment
 
+**Team**: Huda Aisyah, Steven Albert, Yu-Ti Tu, Novia Brilianty
 
 ## 📌 Note
 
